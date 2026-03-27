@@ -1,0 +1,18 @@
+id,question,category
+1,How satisfied are you with your current job?,Satisfaction
+2,Do you feel valued at your workplace?,Satisfaction
+3,How well do you handle work pressure?,Stress Management
+4,Do you have clear goals in your career?,Career Growth
+5,How often do you learn new skills?,Learning
+6,Do you feel confident in decision making?,Confidence
+7,How well do you communicate with your team?,Communication
+8,Do you feel your work is recognized?,Recognition
+9,How balanced is your work and personal life?,Work-Life Balance
+10,Do you feel motivated to achieve your goals?,Motivation
+11,Do you feel motivated at work?,Motivation
+12,How well do you manage your time?,Productivity
+13,Do you feel stressed frequently?,Wellbeing
+14,How satisfied are you with your work-life balance?,Wellbeing
+15,Do you get enough support from your team?,Teamwork
+16,How confident are you in your skills?,Self Development
+17,Do you receive constructive feedback regularly?,Growth
